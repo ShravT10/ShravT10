@@ -2,6 +2,6 @@
 - 👀 I’m interested in Coding , Developing and Debugging.
 - 🌱 I’m currently learning the world of software.
 - 💞️ I’m looking to collaborate on any project and learning new things which I love the most !
-- 📫 How to reach me you through my Gmail - shravantaware1021@gmail.com
+- 📫 How to reach me you through my Gmail - shravantaware08@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Not every fact is fun hehe
