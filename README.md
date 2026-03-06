@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Shravan <br>👀 I’m interested in AI , AGENTS , GENERATIVE AI , DL , ML and EDA<br>🌱 I’m currently learning AGENTIC AI<br>💞️ I’m looking to collaborate on any project and learning new things which I love the most !<br>📫 Reach me here - shravantaware08@gmail.com<br>⚡ Fun fact: Not every fact is fun hehe
+👋 Hi, I’m Shravan <br>👀 I’m interested in Gen , Agentic AI and Deep Learning<br>🌱 I’m currently learning AGENTIC AI<br>💞️ I’m looking to collaborate on any project and learning new things which I love the most !<br>📫 Reach me here - shravantaware08@gmail.com<br>⚡ Fun fact: Not every fact is fun hehe
 
 
 # 💻 Tech Stack:
